@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d5efb6254a639044da51d748d21dd991
+timeCreated: 1585177119
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 261974
+  packageName: Bird Flock Seagull 2023
+  packageVersion: 3.0.2.1
+  assetPath: Assets/Unluck Software/Bird Flocks/Bird Flock Seagull/Baked (perfomance)/Prefabs/Flock
+    Seagull Baked.prefab
+  uploadId: 617577

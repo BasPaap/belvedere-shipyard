@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1937537851703212
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4535833923519272}
+  - component: {fileID: 114262363275590918}
+  m_Layer: 0
+  m_Name: soar Snap Baked Animation
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4535833923519272
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1937537851703212}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114262363275590918
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1937537851703212}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 229169b80e09fa146b34df02da261955, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  meshes:
+  - {fileID: 4300000, guid: d18904bc4aa1d154cb212e22e73ee4fc, type: 2}
+  - {fileID: 4300000, guid: 7540b720ed0a86146b0b6b6660c4e627, type: 2}
+  - {fileID: 4300000, guid: d3a8ccb65aea00548bc8651d18dd6544, type: 2}
+  - {fileID: 4300000, guid: 3c5cab81348fc0443a3d570db3c5345e, type: 2}
+  - {fileID: 4300000, guid: 043136749c70d714cb5a9c644d75538c, type: 2}
+  - {fileID: 4300000, guid: 43d5ba1afc9026f41b805455d7df998f, type: 2}
+  - {fileID: 4300000, guid: 9a1270f4018dc474b9b2e6f1d14a76e3, type: 2}
+  - {fileID: 4300000, guid: 46fcaeeb213aeb5499f4d80273445b82, type: 2}
+  - {fileID: 4300000, guid: 8cac21691233a5a4887cad8e88ad799d, type: 2}
+  - {fileID: 4300000, guid: d284288182c5e464896153c78a904c00, type: 2}
+  - {fileID: 4300000, guid: 29919b92376fd11469164d15c53c87b5, type: 2}
+  - {fileID: 4300000, guid: a33d70e28e161234eb239240e8cb22f0, type: 2}
+  - {fileID: 4300000, guid: a2c8b02d42a42c64da926eb60d7843a6, type: 2}
+  - {fileID: 4300000, guid: cb6896aafa66e5d46857f1617977e1aa, type: 2}
+  - {fileID: 4300000, guid: 4d7b2ff344499fd4f923f4538ea2a04d, type: 2}
+  playSpeed: 30
+  rendererComponent: {fileID: 0}
+  randomStartFrame: 1
+  loop: 1
+  pingPong: 0
+  playOnAwake: 1
+  transformCache: {fileID: 0}
+  transitionFrame: 0
+  crossfadeFrame: 0
